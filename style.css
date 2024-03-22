@@ -920,7 +920,6 @@ ul {
 
 .tab-list{
    width: 730px;
-   margin-left: 34%;
    height: auto;
    border-radius: 15px;
    padding-top: 1vh;
@@ -1312,7 +1311,9 @@ main {
 
 
 
-
+.tablist-parent{
+  text-align: center;
+}
 /*-----------------------------------*\
  * #CONTACT
 \*-----------------------------------*/
